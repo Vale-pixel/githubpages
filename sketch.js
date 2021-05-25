@@ -7,8 +7,8 @@ function draw() {
 
   fill(0);
   textSize(20);
-  text('Valeria',50,50,100,200);
+  text('Valeria',100,50,100,200);
 
   fill(0);
-  ellipse
+  ellipse(50,50,50,50);
 }
